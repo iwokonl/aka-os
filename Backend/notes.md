@@ -21,11 +21,29 @@
 - [ ] Kanały dla danego przedmiotu
 - [ ] Baza na dany przedmiot(np. notatki, materiały, pliki)
 - [ ] Informacje co organizują koła naukowe
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+
+
+# Autoryzacja i autentykacja
+
+- [ ] Jeśli api na to pozwoli a raczej tak to autoryzacja przez api uczelniane czy dana osoba jest studentem
+- [ ] Jeśli nie jest studentem ma dostęp do zasobów ale w sposób ograniczony
+- 
+# Design
+
+
+
+
+# Tech stack
+- [ ] Angular
+- [ ] Spring Boot
+- [ ] MongoDB
+- [ ] Docker
+- [ ] Docker Compose
+
+
+# Architecture
+- [ ] Monolityczny backend
+- [ ] SPA
+- [ ] REST API
+- [ ] WebSockety
+- [ ] JWT
