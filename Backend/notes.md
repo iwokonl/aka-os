@@ -1,6 +1,9 @@
 # Ogólne informacje
 
 - [ ] Jak narazie stworzenie tylko API
+- [ ] Tworzone od studentów dla studentów oraz utrzymywane przez studentów
+- [ ] Aplikacja ma być darmowa
+- [ ] Aplikacja ma być open source
 
 
 # Pomysły na funkcjonalności
@@ -29,6 +32,9 @@
 - [ ] Integracje z kalendarzem Google
 - [ ] Integracje z Discordem
 - [ ] Integracje z Facebookiem
+- [ ] Automatyczny backup danych
+- [ ] Możliwość tworzenia ankiet
+
 
 
 # Autoryzacja i autentykacja
