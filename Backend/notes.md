@@ -4,5 +4,16 @@
 - [ ] Informacje o eventach w akademiku
 - [ ] Informacje o statusie, siłowni, jadalni, strefu nauki etc.
 - [ ] Karty lojalnościowe dla studentów od okolicznych firm
+- [ ] Możliwość tworzenia wydarzeń przez studentów
+- [ ] Podstawowe informacje o akademiku
+- [ ] Podstawowe informacje o uczelni
+- [ ] System zgłaszania usterek 
+- [ ] Kalendarz sprzątania
+- [ ] Informacje o ważnych ogłoszeniach i terminach(Kotrola pokoju, terminy płatności, terminy składania podań)
+- [ ] Oferty pracy dla studentów
+- [ ] Inforacje oddam jedzenie, jadę do krakowa itd.(Tablica ogłoszeń)
+- [ ] Informacje o studentach z twojego kierunku studiów albo roku studiów
+- [ ] Chaty i grupy dla pokojów pienter akademików etc.
+- [ ] Harmonogram semestralny
+- [ ] Opinie i polecenia innych studentów
 - [ ] 
-
