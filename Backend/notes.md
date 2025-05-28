@@ -1,3 +1,8 @@
+# Ogólne informacje
+
+- [ ] Jak narazie stworzenie tylko API
+
+
 # Pomysły na funkcjonalności
 
 - [ ] Informacje o eventach dookoła uczelnianych
@@ -21,13 +26,19 @@
 - [ ] Kanały dla danego przedmiotu
 - [ ] Baza na dany przedmiot(np. notatki, materiały, pliki)
 - [ ] Informacje co organizują koła naukowe
+- [ ] Integracje z kalendarzem Google
+- [ ] Integracje z Discordem
+- [ ] Integracje z Facebookiem
 
 
 # Autoryzacja i autentykacja
 
 - [ ] Jeśli api na to pozwoli a raczej tak to autoryzacja przez api uczelniane czy dana osoba jest studentem
 - [ ] Jeśli nie jest studentem ma dostęp do zasobów ale w sposób ograniczony
-- 
+- [ ] Takie role jak Administrator aplikacji, Moderator, Starosta, Student, Gość, Nie student, Właściciel restauracji, Pracodawca
+- [ ] Dostęp do zasobów w zależności od roli
+
+
 # Design
 
 
@@ -39,7 +50,9 @@
 - [ ] MongoDB
 - [ ] Docker
 - [ ] Docker Compose
-
+- [ ] Grafana
+- [ ] Prometheus/Zabbix
+- [ ] Swagger
 
 # Architecture
 - [ ] Monolityczny backend
