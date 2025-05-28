@@ -16,4 +16,16 @@
 - [ ] Chaty i grupy dla pokojów pienter akademików etc.
 - [ ] Harmonogram semestralny
 - [ ] Opinie i polecenia innych studentów
+- [ ] Informacje co posiada dany akademik(np. siłownia, jadalnia, strefa nauki, biblioteka)
+- [ ] Kalendarz informacji dla danego kierunku studiów(Roku studiów) z informacjami o kolokwiach i egzaminach
+- [ ] Kanały dla danego przedmiotu
+- [ ] Baza na dany przedmiot(np. notatki, materiały, pliki)
+- [ ] Informacje co organizują koła naukowe
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 - [ ] 
